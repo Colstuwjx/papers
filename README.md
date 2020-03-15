@@ -1,6 +1,6 @@
 # papers
 
-Technical papers I have read.
+阅读的一些技术论文和笔记。
 
 ## MapReduce
 
